@@ -8,7 +8,7 @@ Estudando Desenvolvimento Web em tempo integral (do tempo livre).
 -   🖥️  Meu portifólio [Github](https://github.com/diegorogerssa)
 -   ✉️  Você pode entrar em contato comigo em [contatodiegorogers@gmail.com](mailto:contatodiegorogers@gmail.com)
 -   🚀  Atualmente estudo em (https://www.cursoemvideo.com/)
--   🧠  Estou aprendendo desenvolvimento Web Full-Stack
+-   🧠  Aprendendo desenvolvimento Web Full-Stack
 
 ### Habilidades
 
