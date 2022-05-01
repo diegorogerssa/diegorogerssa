@@ -9,12 +9,10 @@ Estudando Desenvolvimento Web em tempo integral (do tempo livre).
 -   ✉️  Você pode entrar em contato comigo em [contatodiegorogers@gmail.com](mailto:contatodiegorogers@gmail.com)
 -   🚀  Atualmente estudo em (https://www.cursoemvideo.com/)
 -   🧠  Aprendendo desenvolvimento Web Full-Stack
-
 ##
-
 <div align="center">
   <a href="https://github.com/diegorogerssa">
-  <img height="180em" width = '500' src="https://github-readme-stats.vercel.app/api?username=diegorogerssa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = '400' src="https://github-readme-stats.vercel.app/api?username=diegorogerssa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorogerssa&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
