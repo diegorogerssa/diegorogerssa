@@ -20,6 +20,7 @@ Estudando Desenvolvimento Web em tempo integral (do tempo livre).
   <img align="center" alt="rogers-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rogers-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rogers-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <i class="fa-brands fa-react"></i>
   
  ##
   
