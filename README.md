@@ -20,7 +20,7 @@ Estudando Desenvolvimento Web em tempo integral (do tempo livre).
   <img align="center" alt="rogers-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rogers-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rogers-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="rogers-React" height="30" width="40" src="https://raw.githubusercontent.com/diegorogerssa/diegorogerssa/852e66db21df6b1eb5eeb61907465417469a9269/imagens/react-brand.svg">
+   <img align="center" alt="rogers-React" height="30" width="40" src="https://raw.githubusercontent.com/diegorogerssa/diegorogerssa/d158dda1d7649d8717e9db9ae107820d60005347/imagens/react-brand.svg">
   
 
 
