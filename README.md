@@ -5,7 +5,9 @@
 Estudando Desenvolvimento Web em tempo integral (do tempo livre).
 
 -   🌍  Atualmente morando no Brasil
--   🖥️  Meu portifólio [Github](https://github.com/diegorogerssa)
+-   🖥️  Meu portifólio Repositório [Github](https://github.com/diegorogerssa)
+-   🖥️  Meu portifólio [Github Pages](https://diegorogerssa.github.io/projetos)
+-   
 -   ✉️  Você pode entrar em contato comigo em [contatodiegorogers@gmail.com](mailto:contatodiegorogers@gmail.com)
 -   🚀  Atualmente estudo em (https://www.cursoemvideo.com/)
 -   🧠  Aprendendo desenvolvimento Web Full-Stack
