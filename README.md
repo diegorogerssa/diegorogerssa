@@ -87,8 +87,8 @@
                     <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
                 </td>
                 <td width="80px" align="center">
-                    <span><strong>RTL</strong></span><br>
-                    <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+                    <span><strong>Sinon.JS</strong></span><br>
+                    <img height="32" src="https://sinonjs.org/assets/images/logo.png">
                 </td>
             </tr>
         </tbody>
