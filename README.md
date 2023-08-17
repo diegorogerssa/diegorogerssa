@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Diego+Rogers!)](https://git.io/typing-svg)
+# Diego Rogers prazer!
 
 👨‍👩‍👧‍👧 Marido da Miriam, pai da Heloísa, da Giulia, da Margarida 🐶(a dog), do Tom e da Lua😸(os cats)❤️ amo minha família! 
 
