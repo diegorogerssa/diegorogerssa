@@ -2,7 +2,7 @@
 
 👨‍👩‍👧‍👧 Marido da Miriam, pai da Heloísa, da Giulia, da Margarida 🐶(a dog), do Tom e da Lua😸(os cats)❤️ amo minha família! 
 
-📍 Sou brasileiro e atualmente moro no Guarujá -SP
+📍 Sou brasileiro e atualmente moro em Mauá -SP
 
 👨🏻‍🎓 Sou estudante de Engenharia de Software, onde aprendo um pouco mais a cada dia para me tornar um Desenvolvedor cada vez melhor.
 
