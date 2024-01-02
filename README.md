@@ -4,7 +4,7 @@
 
 📍 Sou brasileiro e atualmente moro no Guarujá -SP
 
-👨🏻‍🎓 Sou estudante de Desenvolvimento Back-end na  **Cubos Academy**<img height="20px"  src="https://avatars.githubusercontent.com/u/64142676?s=200&v=4">, onde aprendo um pouco mais a cada dia para me tornar um Desenvolvedor cada vez melhor.
+👨🏻‍🎓 Sou estudante de Engenharia de Software, onde aprendo um pouco mais a cada dia para me tornar um Desenvolvedor cada vez melhor.
 
 `"O segredo não está no que se sabe, mas no que se está disposto a aprender!"`
 
