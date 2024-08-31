@@ -95,7 +95,9 @@
     </div>
     <div>
   <a href="https://github.com/diegorogerssa">
-  
+  <div>
+    🌟 Movido pela transformação, aprendizado constante e pela paixão pela tecnologia. A programação é minha forma de explorar novos desafios, solucionar problemas e ver projetos ganharem vida.
+  </div>
 </div>
 
   
