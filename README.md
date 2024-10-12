@@ -4,7 +4,7 @@
 
 📍 Sou brasileiro e atualmente moro em Mauá -SP
 
-👨🏻‍🎓 Sou estudante de Engenharia de Software, onde aprendo um pouco mais a cada dia para me tornar um Desenvolvedor cada vez melhor.
+👨🏻‍🎓 Estou sempre em busca de aprender e aprimorar minhas habilidades para me tornar um desenvolvedor cada vez melhor..
 
 `"O segredo não está no que se sabe, mas no que se está disposto a aprender!"`
 
